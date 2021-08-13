@@ -1,2 +1,3 @@
-# rboweb
-a toy web framework
+# Wind Web Framework
+
+a toy web framework, but easy like wind
